@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c520750524b8d849954920ffe608f56, type: 3}
+  m_Name: Mercure
+  m_EditorClassIdentifier: 
+  Information: 
+  spritePlanet: {fileID: 21300000, guid: a11c432b67c633f4dbd20598771446b0, type: 3}
+  viable: 0
+  Name: Mercure
+  Rayon: 2439.7
+  Masse: 3.301 x 10^23
+  distanceDuSoleil: '57.9 x 10^6 '
+  Oxygene: 1
+  Azote: 0
+  Carbone: 0
+  hydrogene: 1
+  temperature: "430\xB0C \xE0 -180\xB0C"
+  type: Telurique
+  Gravite: 3.70
+  celcuice: 1

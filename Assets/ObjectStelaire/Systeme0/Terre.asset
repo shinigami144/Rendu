@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c520750524b8d849954920ffe608f56, type: 3}
+  m_Name: Terre
+  m_EditorClassIdentifier: 
+  Information: "Admosphere confirm\xE9"
+  spritePlanet: {fileID: 21300000, guid: 4dc75a220dfadec47be9a6b70272c152, type: 3}
+  viable: 1
+  Name: Terre
+  Rayon: 6378.137
+  Masse: 5.9736 x 10^24
+  distanceDuSoleil: 1.495 x 10^9
+  Oxygene: 1
+  Azote: 1
+  Carbone: 1
+  hydrogene: 1
+  temperature: 289
+  type: Telurique
+  Gravite: 9.78
+  celcuice: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c520750524b8d849954920ffe608f56, type: 3}
+  m_Name: Kepler-62a
+  m_EditorClassIdentifier: 
+  Information: 
+  spritePlanet: {fileID: 21300000, guid: d1633d80f997845418c21db664ba138f, type: 3}
+  viable: 0
+  Name: Kepler68-a
+  Rayon: '508329,66 '
+  Masse: '1,57131E+30 '
+  distanceDuSoleil: 0
+  Oxygene: 0
+  Azote: 0
+  Carbone: 0
+  hydrogene: 1
+  temperature: 4952
+  type: Soleil
+  Gravite: 4.68
